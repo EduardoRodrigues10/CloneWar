@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 30 23:53:47 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0185-653d-ca47-00000207ed38 
+on database directory /Users/edouardo/Documents/Master/Cours/Java_Avance/Projet/benreguig-vilarinho/Clown/clonewardb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5b37e0d2 
+Loaded from file:/Users/edouardo/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.1+10-21
+user.dir=/Users/edouardo/Documents/Master/Cours/Java_Avance/Projet/benreguig-vilarinho/Clown
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
